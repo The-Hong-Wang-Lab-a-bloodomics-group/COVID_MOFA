@@ -2,11 +2,7 @@
 This is the code for the Dissecting the Blood Ecosystem in SARS-CoV-2 Omicron Patients.
 ## File directory description
 
-Script files are stored in the  **bio/** directory. 
-
-Script file introduction.
-
-Script files are stored in the **bio/** directory. The functions of each script are as follows:
+Script files are stored in the **./bio/** directory. The functions of each script are as follows:
 
 + COVID_MOFA.R contains all of the code from data import cleaning, model generation to basic analysis, and is the basis for the rest of the scripts.
 
